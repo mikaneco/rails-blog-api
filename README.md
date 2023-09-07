@@ -64,7 +64,9 @@ Body:
 ## Create a new article
 
 Endpoint:
+```
 POST /api/v1/users/:user_id/articles
+```
 
 Headers:
 ```json
