@@ -1,6 +1,12 @@
 # rails-blog-api
 Simple blog api with rails
 
+# Environment and versions
+- Docker
+- Ruby 3.2.2
+- Rails Latest
+- MySQL 8.0
+
 # How to run
 
 ## Install dependencies
